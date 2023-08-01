@@ -1,0 +1,23 @@
+{
+  "name": "practical",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel build start.html",
+    "start": "npx parcel start.html"
+  },
+  "keywords": [],
+  "author": "Pradeep Rajput <rajputpradeep13@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "browserslist":[
+    "last 2 versions, not dead, > 0.2%"
+  ]
+}
